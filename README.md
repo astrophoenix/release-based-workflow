@@ -3,7 +3,7 @@ Alien Invasion
 This is the sample game that is built in the first three Chapter of
 mobile HTML5 Game Development.
 
-It is released under both the GPL and MIT license to do with what you will.
+[It is released under both the GPL and MIT license to do with what you will.
 
 Playable Version: 
 http://cykod.github.com/AlienInvasion/
@@ -21,6 +21,6 @@ For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resource
 * [HTML5 GameDev Tutorials](http://www.html5gamedevelopment.org/html5-game-tutorials)
 * [HTML5 Game Development News](http://www.html5gamedevelopment.org/html5-news)
 * [HTML5 Game Engines](http://www.html5gamedevelopment.org/html5-engines)
-
+](https://astrophoenix.github.io/release-based-workflow/)
 
 
